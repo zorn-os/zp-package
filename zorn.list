@@ -15,7 +15,7 @@
     "icono": ""
   },
   {
-    "nombre": "KeePassXC",
+    "nombre": "keepassxc",
     "version": "2.7.10",
     "arquitectura": "amd64",
     "descripcion": "Let KeePassXC safely store your passwords and auto-fill them into your favorite apps, so you can forget all about them.",
