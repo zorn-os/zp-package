@@ -1,1 +1,9 @@
-
+[
+  {
+    "nombre": "harmonymusic",
+    "version": "1.12.0",
+    "arquitectura": "all",
+    "descripcion": "A cross platform app for music streaming",
+    "enlace_descarga": "https://github.com/anandnet/Harmony-Music/releases/download/v1.12.0/harmonymusic-1.12.0+25-linux.deb"
+  }
+]
