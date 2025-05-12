@@ -5,5 +5,13 @@
     "arquitectura": "amd64",
     "descripcion": "A cross platform app for music streaming made with Flutter",
     "enlace_descarga": "https://github.com/anandnet/Harmony-Music/releases/download/v1.12.0/harmonymusic-1.12.0+25-linux.deb"
+  },
+  {
+    "nombre": "hydralauncher",
+    "version": "3.4.10",
+    "arquitectura": "amd64",
+    "descripcion": "Hydra Launcher es una plataforma de juegos de código abierto creada para ser la herramienta única que necesitas para gestionar tu biblioteca de juegos. Hydra está escrita en Node.js (Electron, React, Typescript) y Python.",
+    "enlace_descarga": "https://github.com/hydralauncher/hydra/releases/download/v3.4.10/hydralauncher_3.4.10_amd64.deb",
+    "icono": ""
   }
 ]
