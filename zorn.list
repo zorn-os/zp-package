@@ -39,10 +39,10 @@
     "icono": ""
   },
   {
-    "nombre": "web-manager",
+    "nombre": "webapp-manager",
     "version": "1.4.0",
     "arquitectura": "amd64",
-    "descripcion": "Gestor de Aplicaciones Web ",
+    "descripcion": "Gestor de Aplicaciones Web",
     "enlace_descarga": "https://github.com/zorn-os/zp-package/releases/download/sasd/webapp-manager_1.4.0_all.deb",
     "icono": ""
   }
