@@ -37,15 +37,13 @@
     "descripcion": "Gestor de Aplicaciones Web de Linux Mint",
     "enlace_descarga": "https://github.com/zorn-os/zp-package/releases/download/sasd/webapp-manager_1.4.0_all.deb",
     "icono": ""
-  }
-
- {
+  },
+  {
     "nombre": "ghostty",
     "version": "1.0.0.1",
     "arquitectura": "amd64",
     "descripcion": "Ghostty es un emulador de terminal rápido, repleto de funciones y multiplataforma que utiliza una interfaz de usuario nativa de la plataforma y aceleración de GPU.",
-    "enlace_descarga": "https://github.com/zorn-os/zp-package/releases/download/sasd/webapp-manager_1.4.0_all.deb",
+    "enlace_descarga": "https://github.com/mitchellh/ghostty/releases/download/v1.0.0.1/ghostty_1.0.0.1_amd64.deb",
     "icono": ""
-  },
-
+  }
 ]
