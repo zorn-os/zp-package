@@ -1,10 +1,10 @@
 [
   {
     "nombre": "harmonymusic",
-    "version": "1.11.1",
+    "version": "1.12.0",
     "arquitectura": "amd64",
     "descripcion": "A cross platform app for music streaming made with Flutter",
-    "enlace_descarga": "https://github.com/anandnet/Harmony-Music/releases/download/v1.11.1/harmonymusic-1.11.1+23-linux.deb"
+    "enlace_descarga": "https://github.com/anandnet/Harmony-Music/releases/download/v1.12.0/harmonymusic-1.12.0+25-linux.deb"
   },
   {
     "nombre": "hydralauncher",
