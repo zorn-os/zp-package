@@ -61,14 +61,5 @@
     "enlace_descarga": "https://github.com/fastfetch-cli/fastfetch/releases/",
     "icono": "https://avatars.githubusercontent.com/u/136235211?s=48&v=4",
     "categoria": "Sistema / Información de sistema"
-  },
-  {
-    "nombre": "obs-studio",
-    "version": "auto",
-    "arquitectura": "amd64",
-    "descripcion": "OBS Studio es un software diseñado para capturar, componer, codificar, grabar y transmitir contenido de video de manera eficiente.",
-    "enlace_descarga": "https://github.com/obsproject/obs-studio/releases",
-    "icono": "https://github.com/obsproject/obs-studio/blob/master/frontend/cmake/linux/icons/obs-logo-128.png?raw=true",
-    "categoria": "Video /Grabacion de Video"
   }
 ]
