@@ -75,5 +75,16 @@
     ],
     "icono": "https://avatars.githubusercontent.com/u/136235211?s=48&v=4",
     "categoria": "Sistema / Información de sistema"
+  },
+  {
+    "nombre": "heroic-games",
+    "version": "auto",
+    "arquitectura": "amd64",
+    "descripcion": "Heroic es un lanzador de juegos de código abierto para Linux, Windows y macOS. Actualmente, permite ejecutar juegos desde Epic Games Store con Legendary, \ndesde GOG Games con nuestra implementación personalizada con gogdl y desde Amazon Games con Nile.",
+    "icono": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/blob/main/public/icon.png?raw=true",
+    "categoria": "Juegos",
+    "enlace_descarga": [
+      "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases"
+    ]
   }
 ]
