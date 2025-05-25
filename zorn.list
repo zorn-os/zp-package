@@ -109,5 +109,16 @@
       "sudo apt update",
       "sudo apt install gnome-software gnome-software-plugin-flatpak"
     ]
+  },
+  {
+    "nombre": "thorium-browser",
+    "version": "auto",
+    "arquitectura": "amd64",
+    "descripcion": "Bifurcación de Chromium para Linux que lleva el nombre del elemento radiactivo n.° 90. Para compilaciones de Windows, MacOS, RasPi, Android y otras, consulte a continuación.",
+    "icono": "https://github.com/Alex313031/thorium/blob/main/logos/NEW/mac/icon_128.png?raw=true",
+    "categoria": "Internet",
+    "enlace_descarga": [
+      "https://github.com/Alex313031/thorium/releases/"
+    ]
   }
 ]
