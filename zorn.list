@@ -86,5 +86,16 @@
     "enlace_descarga": [
       "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases"
     ]
+  },
+  {
+    "nombre": "zorn-package-uploader-manager",
+    "version": "1.0",
+    "arquitectura": "amd64",
+    "descripcion": "Adminsitrador de paquetes Zpm",
+    "icono": "https://raw.githubusercontent.com/zorn-os/zorn-package-uploader-manager/refs/heads/main/assets/zpm.png",
+    "categoria": "Utilidades",
+    "enlace_descarga": [
+      "https://github.com/zorn-os/zorn-package-uploader-manager/releases/download/1.0/zorn-uploader-package-manager_build.deb"
+    ]
   }
 ]
