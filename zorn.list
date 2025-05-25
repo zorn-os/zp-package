@@ -48,7 +48,7 @@
     "nombre": "youtube-music-client",
     "version": "auto",
     "arquitectura": "amd64",
-    "descripcion": "Envoltorio Electron para YouTube Music con apariencia nativa. Incluye marco para plugins personalizados que permiten modificar estilo, contenido y funciones, activándolos o desactivándolos con un solo clic.",
+    "descripcion": "Envoltorio Electron para YouTube Music con apariencia nativa. Incluye marco para plugins",
     "enlace_descarga": "https://github.com/th-ch/youtube-music/releases",
     "icono": "",
     "categoria": "Multimedia / Reproductor de música"
