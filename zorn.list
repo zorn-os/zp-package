@@ -23,7 +23,7 @@
     "arquitectura": "amd64",
     "descripcion": "Instalador de paquetes DEB obtenido de MX Linux.",
     "enlace_descarga": "https://github.com/zorn-os/zp-package/releases/download/fdsfdfd/deb-installer_25.4.01_amd64.deb",
-    "icono": "",
+    "icono": "https://github.com/MX-Linux/deb-installer/blob/main/deb-installer.png?raw=true",
     "categoria": "Sistema / Instalador de paquetes"
   },
   {
@@ -32,7 +32,7 @@
     "arquitectura": "amd64",
     "descripcion": "Instalador de controladores Nvidia obtenido de MX Linux.",
     "enlace_descarga": "https://github.com/zorn-os/zp-package/releases/download/sdfdf/ddm-mx.deb",
-    "icono": "",
+    "icono": "https://github.com/MX-Linux/ddm-mx/blob/master/nvidia-ddm-mx.png?raw=true",
     "categoria": "Sistema / Gestor de controladores"
   },
   {
@@ -41,7 +41,7 @@
     "arquitectura": "amd64",
     "descripcion": "Gestor de aplicaciones web de Linux Mint.",
     "enlace_descarga": "https://github.com/zorn-os/zp-package/releases/download/sasd/webapp-manager_1.4.0_all.deb",
-    "icono": "",
+    "icono": "https://raw.githubusercontent.com/linuxmint/webapp-manager/7a416cb00244bf1ea63df66042d7ae6c56d8ea29/usr/share/icons/hicolor/scalable/apps/webapp-manager.svg",
     "categoria": "Internet / Gestor de aplicaciones web"
   },
   {
@@ -50,7 +50,7 @@
     "arquitectura": "amd64",
     "descripcion": "Envoltorio Electron para YouTube Music con apariencia nativa. Incluye marco para plugins",
     "enlace_descarga": "https://github.com/th-ch/youtube-music/releases",
-    "icono": "",
+    "icono": "https://github.com/th-ch/youtube-music/blob/master/assets/generated/icons/png/128x128.png?raw=true",
     "categoria": "Multimedia / Reproductor de música"
   },
   {
@@ -59,7 +59,7 @@
     "arquitectura": "amd64",
     "descripcion": "Fastfetch es una herramienta similar a neofetch para obtener información del sistema y mostrarla de una manera visualmente atractiva.",
     "enlace_descarga": "https://github.com/fastfetch-cli/fastfetch/releases/",
-    "icono": "",
+    "icono": "https://avatars.githubusercontent.com/u/136235211?s=48&v=4",
     "categoria": "Sistema / Información de sistema"
   },
   {
