@@ -4,7 +4,7 @@
     "version": "auto",
     "arquitectura": "amd64",
     "descripcion": "Aplicación multiplataforma para transmisión de música creada con Flutter.",
-    "icono": "https://github.com/anandnet/Harmony-Music/blob/main/assets/icons/icon.png?raw=true",
+    "icono": "https://f-droid.org/repo/com.anandnet.harmonymusic/en-US/icon_CP7iWywg-B_GMclDgoDUUChCj6OTvolo1yaeONbdUEs=.png",
     "categoria": "Multimedia",
     "enlace_descarga": [
       "https://github.com/anandnet/Harmony-Music/releases"
