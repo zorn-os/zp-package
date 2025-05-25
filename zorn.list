@@ -14,7 +14,7 @@
     "arquitectura": "amd64",
     "descripcion": "Plataforma de juegos de código abierto para gestionar tu biblioteca de juegos. Está desarrollada con Node.js (Electron, React, Typescript) y Python.",
     "enlace_descarga": "https://github.com/hydralauncher/hydra/releases",
-    "icono": "https://github.com/hydralauncher/hydra/blob/main/resources/icon.png?raw=true",
+    "icono": "https://raw.githubusercontent.com/hydralauncher/hydra/refs/heads/main/resources/icon.png",
     "categoria": "Juegos / Lanzador de juegos"
   },
   {
