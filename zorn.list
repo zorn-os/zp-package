@@ -4,7 +4,7 @@
     "version": "1.12.0",
     "arquitectura": "amd64",
     "descripcion": "Una aplicación multiplataforma para transmisión de música creada con Flutter",
-    "enlace_descarga": "https://github.com/anandnet/Harmony-Music/releases/download/v1.12.0/harmonymusic-1.12.0+25-linux.deb",
+    "enlace_descarga": "https://github.com/anandnet/Harmony-Music/releases",
     "icono": "https://github.com/anandnet/Harmony-Music/blob/main/assets/icons/icon.png",
     "categoria": "Multimedia / Reproductor de Música"
   },
