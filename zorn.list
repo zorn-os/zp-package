@@ -45,12 +45,14 @@
     "categoria": "Internet / Gestor de Aplicaciones Web"
   },
   {
-    "nombre": "ghostty",
-    "version": "1.0.0.1",
+    "nombre": "youtube-music-client",
+    "version": "auto",
     "arquitectura": "amd64",
-    "descripcion": "Ghostty es un emulador de terminal rápido, repleto de funciones y multiplataforma que utiliza una interfaz de usuario nativa de la plataforma y aceleración de GPU.",
-    "enlace_descarga": "https://github.com/mitchellh/ghostty/releases/download/v1.0.0.1/ghostty_1.0.0.1_amd64.deb",
+    "descripcion": "Envoltorio Electron para YouTube Music con:
+Apariencia nativa, con el objetivo de mantener la interfaz original.
+Marco para plugins personalizados: personaliza YouTube Music según tus necesidades (estilo, contenido, funciones), activa o desactiva plugins con un solo clic.",
+    "enlace_descarga": "https://github.com/th-ch/youtube-music/releases",
     "icono": "",
-    "categoria": "Sistema / Emulador de Terminal"
+    "categoria": "Musica/Reproduccion de musica"
   }
 ]
