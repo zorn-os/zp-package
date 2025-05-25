@@ -1,49 +1,26 @@
 [
   {
-    "nombre": "harmonymusic",
-    "version": "2.12.0",
-    "arquitectura": "amd64",
-    "descripcion": "A cross platform app for music streaming made with Flutter",
-    "enlace_descarga": "https://github.com/anandnet/Harmony-Music/releases/download/v1.12.0/harmonymusic-1.12.0+25-linux.deb"
+    "nombre": "kernel-zorn-os-5.15.184",
+    "enlace_descarga": [
+      "https://github.com/anandnet/Harmony-Music/releases/download/v1.0/harmonymusic_amd64.deb",
+      "https://mirror1.example.com/harmonymusic_amd64.deb",
+      "https://backup.example.net/harmonymusic_amd64.deb"
+    ]
   },
   {
-    "nombre": "hydralauncher",
-    "version": "3.4.10",
-    "arquitectura": "amd64",
-    "descripcion": "Hydra Launcher es una plataforma de juegos de código abierto creada para ser la herramienta única que necesitas para gestionar tu biblioteca de juegos. Hydra está escrita en Node.js (Electron, React, Typescript) y Python.",
-    "enlace_descarga": "https://github.com/hydralauncher/hydra/releases/download/v3.4.10/hydralauncher_3.4.10_amd64.deb",
-    "icono": ""
+    "nombre": "kernel-zorn-os-5.15.184",
+    "enlace_descarga": [
+      "https://github.com/anandnet/Harmony-Music/releases/download/v1.0/harmonymusic_amd64.deb",
+      "https://mirror1.example.com/harmonymusic_amd64.deb",
+      "https://backup.example.net/harmonymusic_amd64.deb"
+    ]
   },
   {
-    "nombre": "zorn-walls",
-    "version": "1.0.0",
-    "arquitectura": "amd64",
-    "descripcion": "Fondos Zorn Os",
-    "enlace_descarga": "https://github.com/zorn-os/zp-package/releases/download/sddf/zorn-walls.deb",
-    "icono": ""
-  },
-  {
-    "nombre": "deb-installer",
-    "version": "26.0.00",
-    "arquitectura": "amd64",
-    "descripcion": "Instalador de paquetes Deb",
-    "enlace_descarga": "https://github.com/zorn-os/zp-package/releases/download/fdsfdfd/deb-installer_25.4.01_amd64.deb",
-    "icono": ""
-  },
-  {
-    "nombre": "ddm-mx",
-    "version": "25.03.02",
-    "arquitectura": "amd64",
-    "descripcion": "Instalado de drivers Nvidia",
-    "enlace_descarga": "https://github.com/zorn-os/zp-package/releases/download/sdfdf/ddm-mx.deb",
-    "icono": ""
-  },
-  {
-    "nombre": "webapp-manager",
-    "version": "1.4.0",
-    "arquitectura": "amd64",
-    "descripcion": "Gestor de Aplicaciones Web",
-    "enlace_descarga": "https://github.com/zorn-os/zp-package/releases/download/sasd/webapp-manager_1.4.0_all.deb",
-    "icono": ""
+    "nombre": "kernel-zorn-os-5.15.184",
+    "enlace_descarga": [
+      "https://github.com/anandnet/Harmony-Music/releases/download/v1.0/harmonymusic_amd64.deb",
+      "https://mirror1.example.com/harmonymusic_amd64.deb",
+      "https://backup.example.net/harmonymusic_amd64.deb"
+    ]
   }
 ]
