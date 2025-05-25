@@ -52,5 +52,14 @@
     "enlace_descarga": "https://github.com/th-ch/youtube-music/releases",
     "icono": "",
     "categoria": "Multimedia / Reproductor de música"
+  },
+  {
+    "nombre": "fastfetch",
+    "version": "auto",
+    "arquitectura": "amd64",
+    "descripcion": "Fastfetch es una herramienta similar a neofetch para obtener información del sistema y mostrarla de una manera visualmente atractiva.",
+    "enlace_descarga": "https://github.com/fastfetch-cli/fastfetch/releases/",
+    "icono": "",
+    "categoria": "Sistema / Información de sistema"
   }
 ]
