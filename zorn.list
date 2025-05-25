@@ -4,22 +4,22 @@
     "version": "auto",
     "arquitectura": "amd64",
     "descripcion": "Aplicación multiplataforma para transmisión de música creada con Flutter.",
+    "icono": "https://github.com/anandnet/Harmony-Music/blob/main/assets/icons/icon.png?raw=true",
+    "categoria": "Utilidades",
     "enlace_descarga": [
       "https://github.com/anandnet/Harmony-Music/releases"
-    ],
-    "icono": "https://github.com/anandnet/Harmony-Music/blob/main/assets/icons/icon.png?raw=true",
-    "categoria": "Multimedia / Reproductor de música"
+    ]
   },
   {
     "nombre": "hydralauncher",
     "version": "auto",
     "arquitectura": "amd64",
     "descripcion": "Plataforma de juegos de código abierto para gestionar tu biblioteca de juegos. Está desarrollada con Node.js (Electron, React, Typescript) y Python.",
+    "icono": "https://raw.githubusercontent.com/hydralauncher/hydra/refs/heads/main/resources/icon.png",
+    "categoria": "Utilidades",
     "enlace_descarga": [
       "https://github.com/hydralauncher/hydra/releases"
-    ],
-    "icono": "https://raw.githubusercontent.com/hydralauncher/hydra/refs/heads/main/resources/icon.png",
-    "categoria": "Juegos / Lanzador de juegos"
+    ]
   },
   {
     "nombre": "deb-installer",
