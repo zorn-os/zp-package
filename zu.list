@@ -2,9 +2,9 @@
   {
     "nombre": "kernel-zorn-os-5.15.184",
     "enlace_descarga": [
-      "https://github.com/anandnet/Harmony-Music/releases/download/v1.0/harmonymusic_amd64.deb",
-      "https://mirror1.example.com/harmonymusic_amd64.deb",
-      "https://backup.example.net/harmonymusic_amd64.deb"
+      "https://github.com/zorn-os/zorn-os-kernels/releases/download/sdads/linux-headers-5.15.184-zorn-os_5.15.184-zorn-os-1_amd64.deb",
+      "https://github.com/zorn-os/zorn-os-kernels/releases/download/sdads/linux-image-5.15.184-zorn-os_5.15.184-zorn-os-1_amd64.deb",
+      "https://github.com/zorn-os/zorn-os-kernels/releases/download/sdads/linux-libc-dev_5.15.184-zorn-os-1_amd64.deb"
     ]
   },
   {
