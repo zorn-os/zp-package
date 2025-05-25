@@ -63,7 +63,7 @@
     "categoria": "Sistema / Información de sistema"
   },
   {
-    "nombre": "OBS Studio",
+    "nombre": "obs-studio",
     "version": "auto",
     "arquitectura": "amd64",
     "descripcion": "OBS Studio es un software diseñado para capturar, componer, codificar, grabar y transmitir contenido de video de manera eficiente.",
