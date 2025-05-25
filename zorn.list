@@ -5,7 +5,7 @@
     "arquitectura": "amd64",
     "descripcion": "Aplicación multiplataforma para transmisión de música creada con Flutter.",
     "enlace_descarga": "https://github.com/anandnet/Harmony-Music/releases",
-    "icono": "https://github.com/anandnet/Harmony-Music/blob/main/assets/icons/icon.png",
+    "icono": "https://github.com/anandnet/Harmony-Music/blob/main/assets/icons/icon.png?raw=true",
     "categoria": "Multimedia / Reproductor de música"
   },
   {
@@ -14,7 +14,7 @@
     "arquitectura": "amd64",
     "descripcion": "Plataforma de juegos de código abierto para gestionar tu biblioteca de juegos. Está desarrollada con Node.js (Electron, React, Typescript) y Python.",
     "enlace_descarga": "https://github.com/hydralauncher/hydra/releases",
-    "icono": "",
+    "icono": "https://github.com/hydralauncher/hydra/blob/main/resources/icon.png?raw=true",
     "categoria": "Juegos / Lanzador de juegos"
   },
   {
@@ -61,5 +61,14 @@
     "enlace_descarga": "https://github.com/fastfetch-cli/fastfetch/releases/",
     "icono": "",
     "categoria": "Sistema / Información de sistema"
+  },
+  {
+    "nombre": "OBS Studio",
+    "version": "auto",
+    "arquitectura": "amd64",
+    "descripcion": "OBS Studio es un software diseñado para capturar, componer, codificar, grabar y transmitir contenido de video de manera eficiente.",
+    "enlace_descarga": "https://github.com/obsproject/obs-studio/releases",
+    "icono": "https://github.com/obsproject/obs-studio/blob/master/frontend/cmake/linux/icons/obs-logo-128.png?raw=true",
+    "categoria": "Video /Grabacion de Video"
   }
 ]
