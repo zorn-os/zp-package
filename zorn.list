@@ -99,18 +99,6 @@
     ]
   },
   {
-    "nombre": "gnome-software",
-    "version": "43.5-1",
-    "arquitectura": "amd64",
-    "descripcion": "es la tienda de aplicaciones oficial del entorno de escritorio GNOME. Permite a los usuarios buscar, instalar, actualizar y eliminar software de forma gráfica y \nsencilla, tanto desde los repositorios tradicionales (APT) como desde otras fuentes como Flatpak.",
-    "icono": "https://raw.githubusercontent.com/GNOME/gnome-software/9c25d83962ef9da9b7051bbbc46f9ec251739480/data/icons/hicolor/scalable/org.gnome.Software.svg",
-    "categoria": "Utilidades",
-    "enlace_descarga": [
-      "sudo apt update",
-      "sudo apt install gnome-software gnome-software-plugin-flatpak"
-    ]
-  },
-  {
     "nombre": "thorium-browser",
     "version": "auto",
     "arquitectura": "amd64",
