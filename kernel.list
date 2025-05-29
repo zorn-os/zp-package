@@ -1,29 +1,112 @@
 [
   {
-    "nombre": "kernel-zorn-os-5.15.184",
-    "version": "5.15.184",
+    "nombre": "harmonymusic",
+    "version": "auto",
+    "arquitectura": "amd64",
+    "descripcion": "Aplicación multiplataforma para transmisión de música creada con Flutter.",
+    "icono": "https://github.com/anandnet/Harmony-Music/blob/main/assets/icons/icon.png?raw=true",
+    "categoria": "Multimedia",
     "enlace_descarga": [
-      "https://github.com/zorn-os/zorn-os-kernels/releases/download/sdads/linux-headers-5.15.184-zorn-os_5.15.184-zorn-os-1_amd64.deb",
-      "https://github.com/zorn-os/zorn-os-kernels/releases/download/sdads/linux-image-5.15.184-zorn-os_5.15.184-zorn-os-1_amd64.deb",
-      "https://github.com/zorn-os/zorn-os-kernels/releases/download/sdads/linux-libc-dev_5.15.184-zorn-os-1_amd64.deb"
+      "https://github.com/anandnet/Harmony-Music/releases"
     ]
   },
   {
-    "nombre": "kernel-zorn-os-6.1.140",
-    "version": "6.1.140",
+    "nombre": "hydralauncher",
+    "version": "auto",
+    "arquitectura": "amd64",
+    "descripcion": "Plataforma de juegos de código abierto para gestionar tu biblioteca de juegos. Está desarrollada con Node.js (Electron, React, Typescript) y Python.",
+    "icono": "https://raw.githubusercontent.com/hydralauncher/hydra/refs/heads/main/resources/icon.png",
+    "categoria": "Juegos",
     "enlace_descarga": [
-      "https://github.com/anandnet/Harmony-Music/releases/download/v1.0/harmonymusic_amd64.deb",
-      "https://mirror1.example.com/harmonymusic_amd64.deb",
-      "https://backup.example.net/harmonymusic_amd64.deb"
+      "https://github.com/hydralauncher/hydra/releases"
     ]
   },
   {
-    "nombre": "kernel-zorn-os-6.12.30",
-    "version": "6.12.30",
+    "nombre": "deb-installer",
+    "version": "25.4.01",
+    "arquitectura": "amd64",
+    "descripcion": "Instalador de paquetes DEB obtenido de MX Linux.",
+    "icono": "https://github.com/MX-Linux/deb-installer/blob/main/deb-installer.png?raw=true",
+    "categoria": "Utilidades",
     "enlace_descarga": [
-      "https://github.com/anandnet/Harmony-Music/releases/download/v1.0/harmonymusic_amd64.deb",
-      "https://mirror1.example.com/harmonymusic_amd64.deb",
-      "https://backup.example.net/harmonymusic_amd64.deb"
+      "https://github.com/zorn-os/zp-package/raw/main/packages/deb-installer_25.4.01_amd64.deb"
+    ]
+  },
+  {
+    "nombre": "ddm-mx",
+    "version": "25.03.02",
+    "arquitectura": "amd64",
+    "descripcion": "Instalador de controladores Nvidia obtenido de MX Linux.",
+    "icono": "https://github.com/MX-Linux/ddm-mx/blob/master/nvidia-ddm-mx.png?raw=true",
+    "categoria": "Utilidades",
+    "enlace_descarga": [
+      "https://github.com/zorn-os/zp-package/raw/main/packages/ddm-mx.deb"
+    ]
+  },
+  {
+    "nombre": "webapp-manager",
+    "version": "1.4.0",
+    "arquitectura": "amd64",
+    "descripcion": "Gestor de aplicaciones web de Linux Mint.",
+    "icono": "https://raw.githubusercontent.com/linuxmint/webapp-manager/7a416cb00244bf1ea63df66042d7ae6c56d8ea29/usr/share/icons/hicolor/scalable/apps/webapp-manager.svg",
+    "categoria": "Internet",
+    "enlace_descarga": [
+      "https://github.com/zorn-os/zp-package/raw/refs/heads/main/packages/webapp-manager_1.4.0_all.deb"
+    ]
+  },
+  {
+    "nombre": "youtube-music-client",
+    "version": "auto",
+    "arquitectura": "amd64",
+    "descripcion": "Envoltorio Electron para YouTube Music con apariencia nativa. Incluye marco para plugins",
+    "icono": "https://github.com/th-ch/youtube-music/blob/master/assets/generated/icons/png/128x128.png?raw=true",
+    "categoria": "Multimedia",
+    "enlace_descarga": [
+      "https://github.com/th-ch/youtube-music/releases"
+    ]
+  },
+  {
+    "nombre": "fastfetch",
+    "version": "auto",
+    "arquitectura": "amd64",
+    "descripcion": "Fastfetch es una herramienta similar a neofetch para obtener información del sistema y mostrarla de una manera visualmente atractiva.",
+    "icono": "https://avatars.githubusercontent.com/u/136235211?s=48&v=4",
+    "categoria": "Utilidades",
+    "enlace_descarga": [
+      "https://github.com/fastfetch-cli/fastfetch/releases/"
+    ]
+  },
+  {
+    "nombre": "heroic-games",
+    "version": "auto",
+    "arquitectura": "amd64",
+    "descripcion": "Heroic es un lanzador de juegos de código abierto para Linux, Windows y macOS. Actualmente, permite ejecutar juegos desde Epic Games Store con Legendary, \ndesde GOG Games con nuestra implementación personalizada con gogdl y desde Amazon Games con Nile.",
+    "icono": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/blob/main/public/icon.png?raw=true",
+    "categoria": "Juegos",
+    "enlace_descarga": [
+      "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases"
+    ]
+  },
+  {
+    "nombre": "zorn-package-uploader-manager",
+    "version": "1.0",
+    "arquitectura": "amd64",
+    "descripcion": "Adminsitrador de paquetes Zpm",
+    "icono": "https://raw.githubusercontent.com/zorn-os/zorn-package-uploader-manager/refs/heads/main/assets/zpm.png",
+    "categoria": "Utilidades",
+    "enlace_descarga": [
+      "https://github.com/zorn-os/zorn-package-uploader-manager/releases/download/1.0/zorn-uploader-package-manager_build.deb"
+    ]
+  },
+  {
+    "nombre": "thorium-browser",
+    "version": "auto",
+    "arquitectura": "amd64",
+    "descripcion": "Bifurcación de Chromium para Linux que lleva el nombre del elemento radiactivo n.° 90. Para compilaciones de Windows, MacOS, RasPi, Android y otras, consulte a continuación.",
+    "icono": "https://github.com/Alex313031/thorium/blob/main/logos/NEW/mac/icon_128.png?raw=true",
+    "categoria": "Internet",
+    "enlace_descarga": [
+      "https://github.com/Alex313031/thorium/releases/"
     ]
   }
 ]
