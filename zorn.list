@@ -29,7 +29,7 @@
     "icono": "https://github.com/MX-Linux/deb-installer/blob/main/deb-installer.png?raw=true",
     "categoria": "Utilidades",
     "enlace_descarga": [
-      "https://github.com/zorn-os/zp-package/releases/download/fdsfdfd/deb-installer_25.4.01_amd64.deb"
+      "https://github.com/zorn-os/zp-package/raw/main/packages/deb-installer_25.4.01_amd64.deb"
     ]
   },
   {
@@ -40,7 +40,7 @@
     "icono": "https://github.com/MX-Linux/ddm-mx/blob/master/nvidia-ddm-mx.png?raw=true",
     "categoria": "Utilidades",
     "enlace_descarga": [
-      "https://github.com/zorn-os/zp-package/releases/download/sdfdf/ddm-mx.deb"
+      "https://github.com/zorn-os/zp-package/raw/main/packages/ddm-mx.deb"
     ]
   },
   {
@@ -51,7 +51,7 @@
     "icono": "https://raw.githubusercontent.com/linuxmint/webapp-manager/7a416cb00244bf1ea63df66042d7ae6c56d8ea29/usr/share/icons/hicolor/scalable/apps/webapp-manager.svg",
     "categoria": "Internet",
     "enlace_descarga": [
-      "https://github.com/zorn-os/zp-package/releases/download/sasd/webapp-manager_1.4.0_all.deb"
+      "https://github.com/zorn-os/zp-package/raw/refs/heads/main/packages/webapp-manager_1.4.0_all.deb"
     ]
   },
   {
