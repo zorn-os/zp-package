@@ -108,5 +108,17 @@
     "enlace_descarga": [
       "https://github.com/Alex313031/thorium/releases/"
     ]
+  },
+  {
+    "nombre": "ghostty-terminal",
+    "version": "1.0.0-1",
+    "arquitectura": "amd64",
+    "descripcion": "Ghostty es un emulador de terminal que se distingue por su rapidez, funcionalidades y su diseño nativo. Si bien existen muchos emuladores de terminal excelentes, todos te obligan a elegir entre velocidad, funciones o interfaces nativas. Ghostty ofrece las tres.",
+    "icono": "https://github.com/ghostty-org/ghostty/blob/main/images/icons/icon_256.png?raw=true",
+    "categoria": "Utilidades",
+    "enlace_descarga": [
+      "https://github.com/zorn-os/zp-package/raw/refs/heads/main/packages/libghostty-dev_1.0.0-1_amd64.deb",
+      "https://github.com/zorn-os/zp-package/raw/refs/heads/main/packages/ghostty_1.0.0-1_amd64.deb"
+    ]
   }
 ]
