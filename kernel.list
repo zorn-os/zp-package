@@ -117,7 +117,6 @@
     "icono": "https://github.com/ghostty-org/ghostty/blob/main/images/icons/icon_256.png?raw=true",
     "categoria": "Utilidades",
     "enlace_descarga": [
-      "https://github.com/zorn-os/zp-package/raw/refs/heads/main/packages/libghostty-dev_1.0.0-1_amd64.deb",
       "https://github.com/zorn-os/zp-package/raw/refs/heads/main/packages/ghostty_1.0.0-1_amd64.deb"
     ]
   }
